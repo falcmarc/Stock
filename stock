@@ -1,1 +1,4 @@
 python --version
+pip install django djangorestframework
+django-admin startproject config .
+python manage.py startapp magazzino
